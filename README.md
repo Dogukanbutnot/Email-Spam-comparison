@@ -1,5 +1,5 @@
 # Email-Spam-comparison
-Email Spam comparisonwith logistic regression and random forest
+Email Spam comparison with logistic regression and random forest
 
 
 
